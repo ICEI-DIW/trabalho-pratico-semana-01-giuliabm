@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Giulia Bagni Menicucci
+Matricula: 888912
 
 ## Tela de inspeção com navegador
-
+   <img src="inspeção.jpg">
 
 ## Tela de projeto no Replit
-
+   <img src="olámundo.jpg">
